@@ -70,13 +70,6 @@ Follow the cells in order to:
 
 ---
 
-## 📸 Example Outputs
-
-| Epoch 1                        | Epoch 25                         | Epoch 50                         |
-| ------------------------------ | -------------------------------- | -------------------------------- |
-| ![epoch1](samples/epoch_1.png) | ![epoch25](samples/epoch_25.png) | ![epoch50](samples/epoch_50.png) |
-
-*📌 Replace the image paths above with your actual sample outputs.*
 
 ---
 
